@@ -181,7 +181,7 @@ def tier3_result():
     return render_template('tier3_result.html',result1=result1,result2=result2,improved_solution1=improved_solution1,improved_solution2=improved_solution2)
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
 
 
