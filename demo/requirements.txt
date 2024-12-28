@@ -1,0 +1,4 @@
+Flask
+groq
+gunicorn
+Werkzeug==2.3.7

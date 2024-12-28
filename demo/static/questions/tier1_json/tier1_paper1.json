@@ -1,0 +1,1224 @@
+[
+    {
+        "section": "General Intelligence and Reasoning",
+        "data": [
+            {
+                "q_id": "1",
+                "question": " How many triangles are there in the given figure?",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/1.png",
+                "options": [
+                    "5",
+                    "3",
+                    "4",
+                    "6"
+                ],
+                "answer": "4"
+            },
+            {
+                "q_id": "2",
+                "question": "What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged?\n 4 ÷ 6 + 91 × 7 − 5 = ?",
+                "image": null,
+                "options": [
+                    "21",
+                    "16",
+                    "12",
+                    "17"
+                ],
+                "answer": "16"
+            },
+            {
+                "q_id": "3",
+                "question": " Three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which is the letter-cluster pair that does NOT belong to that group?\n (Note: The odd one out is not based on the number of consonants/vowels or their positions in the letter-cluster.)",
+                "image": null,
+                "options": [
+                    "EJ - OT",
+                    "PF - OI",
+                    "KP - UZ",
+                    "CH - MR"
+                ],
+                "answer": "PF - OI"
+            },
+            {
+                "q_id": "4",
+                "question": " In this question, three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/4.png",
+                "options": [
+                    "Only conclusions II and III follow.",
+                    "None of the conclusions follows.",
+                    "Only conclusions I and II follow.",
+                    "Only conclusion III follows."
+                ],
+                "answer": "Only conclusions I and II follow."
+            },
+            {
+                "q_id": "5",
+                "question": " What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged?\n  1604 × 4 – 525 ÷ 5 + 73 = ?",
+                "image": null,
+                "options": [
+                    "2395",
+                    "2935",
+                    "2953",
+                    "2539"
+                ],
+                "answer": "2953"
+            },
+            {
+                "q_id": "6",
+                "question": "The position of how many letters will change, if each of the letters in the word ‘SYSTEM’ is arranged in the English alphabetical order?",
+                "image": null,
+                "options": [
+                    "Five",
+                    "Six",
+                    "Three",
+                    "Four"
+                ],
+                "answer": "Five"
+            },
+            {
+                "q_id": "7",
+                "question": "Select the number from among the given options that can replace the question mark (?) in the following series.\n   99, 123, 150, 180, 213, ?",
+                "image": null,
+                "options": [
+                    "259",
+                    "258",
+                    "248",
+                    "249"
+                ],
+                "answer": "249"
+            },
+            {
+                "q_id": "8",
+                "question": "Select the option that can replace the question mark (?) in the following series.\n   VO39, TM35, RK31, PI27, ?",
+                "image": null,
+                "options": [
+                    "OH24",
+                    "NG23",
+                    "MH24",
+                    "MG22"
+
+                ],
+                "answer": "NG23"
+            },
+            {
+                "q_id": "9",
+                "question": "Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusion(s) logically follow(s) from the given statements",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/9.png",
+                "options": [
+                    "Only conclusion (II) follows",
+                    "Neither conclusion (I) nor (II) follows",
+                    "Both conclusions (I) and (II) follow",
+                    "Only conclusion (I) follows"
+                ],
+                "answer": "Neither conclusion (I) nor (II) follows"
+            },
+            {
+                "q_id": "10",
+                "question": "Select the figure from among the given options that can replace the question mark (?) and logically complete the series.",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/10.png",
+                "options": [
+                    "questions/tier1_json/paper1_images/general_inte_reason/10_1.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/10_2.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/10_3.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/10_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/10_3.png"
+            },
+            {
+                "q_id": "11",
+                "question": "In a certain code language, ‘let it go’ is coded as ‘vc nt ap’ and ‘this is it’ is coded as ‘mq vc lh’. What is the code for ‘it’ in that language?",
+                "image": null,
+                "options": [
+                    "mq",
+                    "vc",
+                    "lh",
+                    "nt"
+                ],
+                "answer": "vc"
+            },
+            {
+                "q_id": "12",
+                "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.\n (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word)\n Egypt : Nile",
+                "image": null,
+                "options": [
+                    "Russia : Mississippi",
+                    "South Korea : Mekong",
+                    "Brazil : Colorado",
+                    "Myanmar : Irrawaddy"
+                ],
+                "answer": "Myanmar : Irrawaddy"
+            },
+            {
+                "q_id": "13",
+                "question": "In a certain code language, ‘It’s your life’ is written as ‘Ao Bo Co’ and ‘It’s your food’ is written as ‘Ba Co Bo’. How will ‘food’ be written in that language?",
+                "image": null,
+                "options": [
+                    "Bo",
+                    "Co",
+                    "Ba",
+                    "Ao"
+                ],
+                "answer": "Ba"
+            },
+            {
+                "q_id": "14",
+                "question": "Select the option that represents the letters that when placed from left to right in the blanks below will complete the given letter series.\n   N _ B A N A _ A _ A N A N A B _ N A N A B A _ A N A",
+                "image": null,
+                "options": [
+                    "ANANB",
+                    "NANAB",
+                    "ANABN",
+                    "ANBAN"
+                ],
+                "answer": "ANBAN"
+            },
+            {
+                "q_id": "15",
+                "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/15.png",
+                "options": [
+                    "questions/tier1_json/paper1_images/general_inte_reason/15_1.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/15_2.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/15_3.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/15_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/general_inte_reason/15_2.png"
+            },
+            {
+                "q_id": "16",
+                "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown.",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/16.png",
+                "options": [
+                    "questions/tier1_json/paper1_images/general_inte_reason/16_1.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/16_2.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/16_3.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/16_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/general_inte_reason/16_1.png"
+            },
+            {
+                "q_id": "17",
+                "question": "Select the letter-cluster from among the given options that can replace the question mark (?) to complete the given series.\n BVTO, DTVM, ?, HPZI, JNBG",
+                "image": null,
+                "options": [
+                    "RXFK", 
+                    "RFXK", 
+                    "FKXR", 
+                    "FRXK" 
+                ],
+                "answer": "FRXK"
+            },
+            {
+                "q_id": "18",
+                "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.\n (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)\n (18, 378, 7)\n (14, 210, 5)",
+                "image": null,
+                "options": [
+                    "(15, 405, 9)",
+                    "(23, 230, 5)",
+                    "(17, 204, 6)",
+                    "(17, 272, 8)"
+                ],
+                "answer": "(15, 405, 9)"
+            },
+            {
+                "q_id": "19",
+                "question": "Select the triad in which the numbers are related in the same way as are the numbers of the following triads.\n (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g., 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)\n (2, 3, 17) \n (5, 2, 21)",
+                "image": null,
+                "options": [
+                    "(3, 4, 23)",
+                    "(5, 6, 72)",
+                    "(1, 4, 17)",
+                    "(2, 5, 42)"
+
+                ],
+                "answer": "(3, 4, 23)"
+            },
+            {
+                "q_id": "20",
+                "question": " Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/20.png",
+                "options": [
+                    "questions/tier1_json/paper1_images/general_inte_reason/20_1.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/20_2.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/20_3.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/20_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/general_inte_reason/20_1.png"
+            },
+            {
+                "q_id": "21",
+                "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/21.png",
+                "options": [
+                    "questions/tier1_json/paper1_images/general_inte_reason/21_1.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/21_2.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/21_3.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/21_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/general_inte_reason/21_1.png"
+            },
+            {
+                "q_id": "22",
+                "question": " The same operation(s) are followed in all the given number pairs except one. Find that odd number pair.\n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)bxs",
+                "image": null,
+                "options": [
+                    "12 : 39",
+                    "15 : 48", 
+                    "11 : 35",
+                    "13 : 42"
+                ],
+                "answer": "11 : 35"
+            },
+            {
+                "q_id": "23",
+                "question": " A square sheet of paper is folded along the dotted lines successively in the directions shown and is then punched in the last. How would the paper look when unfolded?",
+                "image": "questions/tier1_json/paper1_images/general_inte_reason/23.png",
+                "options": [
+                    "questions/tier1_json/paper1_images/general_inte_reason/23_1.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/23_2.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/23_3.png",
+                    "questions/tier1_json/paper1_images/general_inte_reason/23_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/general_inte_reason/23_2.png"
+            },
+            {
+                "q_id": "24",
+                "question": "Select the triad in which the numbers are related in the same way as are the numbers of the given triads.\n (16, 33, 67), (19, 39, 79)\n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+                "image": null,
+                "options": [
+                    "(22, 45, 91)",
+                    "(21, 45, 90)",
+                    "(18, 36, 80)",
+                    "(14, 27, 53)"
+                ],
+                "answer": "(22, 45, 91)"
+            },
+            {
+                "q_id": "25",
+                "question": "In a certain code language,\n R + T means ‘R is the sister of T’.\n R – T means ‘R is the father of T’.\n  R * T means ‘R is the wife of T’.\n  R ÷ T means ‘R is the mother of T’.\n  Based on the above, how is F related to C if ‘A + B – C ÷ D * E – F ÷ G’?",
+                "image": null,
+                "options": [
+                    "Daughter’s daughter",
+                    "Wife",
+                    "Daughter",
+                    "Mother"
+                ],
+                "answer": "Daughter’s daughter"
+            }
+        ]
+    },
+    {
+        "section" : "General Awarness",
+        "data": [
+            {
+                "q_id": "26",
+                "question": "Which condition, also known as icterus, causes a yellowing of your skin and the whites of your eyes?",
+                "image": null,
+                "options": [
+                    "Ichthyosis",
+                    "Jaundice",
+                    "Eczema",
+                    "Pemphigus"
+                ],
+                "answer": "Jaundice"
+            },
+            {
+                "q_id": "27",
+                "question": " Under the leadership of which of the following revolutionaries was Chittagong Armoury Raid conducted?",
+                "image": null,
+                "options": [
+                    "Rash Behari Bose",
+                    "Badal Gupta",
+                    "Hemu Kalani",
+                    "Surya Sen"
+                ],
+                "answer": "Surya Sen"
+            },
+            {
+                "q_id": "28",
+                "question": " In which of the following states is Govindji Nartanalaya located?",
+                "image": null,
+                "options": [
+                    "Manipur",
+                    "Assam",
+                    "Nagaland",
+                    "Tripura"
+                ],
+                "answer": "Manipur"
+            },
+            {
+                "q_id": "29",
+                "question": " Which of the following celebrations is dedicated to Sun God and his wife Usha to thank them for sustaining life on earth and for granting wishes?",
+                "image": null,
+                "options": [
+                    "Madai Festival",
+                    "Chhath Puja",
+                    "Vishwakarma Puja",
+                    "Sorath Sabha"
+                ],
+                "answer": "Chhath Puja"
+            },
+            {
+                "q_id": "30",
+                "question": "Which of the following inscriptions of Rudradaman happened to be the first royal inscription of early India composed in chaste Sanskrit?",
+                "image": null,
+                "options": [
+                    "Prayag",
+                    "Girnar",
+                    "Chirand",
+                    "Mehrauli"
+                ],
+                "answer": "Girnar"
+            },
+            {
+                "q_id": "31",
+                "question": "The first southern campaign of Alauddin Khilji in 1307-08 AD was led to which of the following regions?",
+                "image": null,
+                "options": [
+                    "Devagiri",
+                    "Warangal",
+                    "Dwar Samudra",
+                    "Madura"
+                ],
+                "answer": "Devagiri"
+            },
+            {
+                "q_id": "32",
+                "question": " What is the IUPAC name of tertiarybutyl alcohol?",
+                "image": null,
+                "options": [
+                    "2-Methylpropan-2-ol",
+                    "1-propylpropan-3-ol",
+                    "1-Methylpropan-3-ol",
+                    "1-ethylpropan-3-ol"
+                ],
+                "answer": "2-Methylpropan-2-ol"
+            },
+            {
+                "q_id": "33",
+                "question": "What is the relationship between interest rate and demand for money?",
+                "image": null,
+                "options": [
+                    "No relationship exists",
+                    "Inverse",
+                    "Direct",
+                    "Proportionate"
+                ],
+                "answer": "Inverse"
+            },
+            {
+                "q_id": "34",
+                "question": " When electricity is passed through water, what kind of chemical reaction occurs?",
+                "image": null,
+                "options": [
+                    "Decomposition",
+                    "Displacement",
+                    "Double displacement", 
+                    "Combination"
+                ],
+                "answer": "Decomposition"
+            },
+            {
+                "q_id": "35",
+                "question": "Which music-composer duo was honoured with the National Lata Mangeshkar Award for the year 2020?",
+                "image": null,
+                "options": [
+                    "Sachin–Jigar",
+                    "Jatin-Lalit",
+                    "Salim–Sulaiman",
+                    "Anand-Milind"
+                ],
+                "answer": "Anand-Milind"
+            },
+            {
+                "q_id": "36",
+                "question": "Which of the following can be represented as a functional unit of nature?",
+                "image": null,
+                "options": [
+                    "Vehicles",
+                    "Ecosystem",
+                    "Humans",
+                    "Plants"
+                ],
+                "answer": "Ecosystem"
+            },
+            {
+                "q_id": "37",
+                "question": "In which state of India is Kund or Tanka used for water harvesting?",
+                "image": null,
+                "options": [
+                    "Rajasthan",
+                    "Andhra Pradesh",
+                    "Uttar Pradesh",
+                    "Punjab"
+                ],
+                "answer": "Rajasthan"
+            },
+            {
+                "q_id": "38",
+                "question": "The inaugural match of the Women Premier League 2023 cricket was played in which of the following venues?",
+                "image": null,
+                "options": [
+                    "Delhi",
+                    "Mumbai",
+                    "Chennai",
+                    "Kolkata"
+                ],
+                "answer": "Mumbai"
+            },
+            {
+                "q_id": "39",
+                "question": "Which of the following is NOT correct about Directive Principles of State Policy?",
+                "image": null,
+                "options": [
+                    "They ensure social and economic development.",
+                    "They are justiciable in nature.",
+                    "They provide guidelines for the governance of the country.",
+                    "They are morally binding on the government."
+                ],
+                "answer": "They are justiciable in nature."
+            },
+            {
+                "q_id": "40",
+                "question": "At what latitude does the easterly jet stream blow over peninsular India during the summer months?",
+                "image": null,
+                "options": [
+                    "24°N",
+                    "30°N",
+                    "14°N",
+                    "28°N"
+                ],
+                "answer": "14°N"
+            },
+            {
+                "q_id": "41",
+                "question": "According to Census of India 2011, in rural India, which state has the maximum female workforce participation rate?",
+                "image": null,
+                "options": [
+                    "Arunachal Pradesh",
+                    "Uttar Pradesh",
+                    "Himachal Pradesh",
+                    "Andhra Pradesh"
+                ],
+                "answer": "Himachal Pradesh"
+            },
+            {
+                "q_id": "42",
+                "question": "In 2021, in which of the following states did the Prime Minister lay the foundation stone for the Raja Mahendra Pratap Singh State University?",
+                "image": null,
+                "options": [
+                    "Uttar Pradesh",
+                    "Gujarat",
+                    "Himachal Pradesh",
+                    "Nagaland"
+                ],
+                "answer": "Uttar Pradesh"
+            },
+            {
+                "q_id": "43",
+                "question": "When was a Madrasa opened in Kolkata to promote the study of Arabic, Persian and Islamic law?",
+                "image": null,
+                "options": [
+                    "1772 C.E.",
+                    "1783 C.E.",
+                    "1781 C.E.",
+                    "1774 C.E."
+                ],
+                "answer": "1781 C.E."
+            },
+            {
+                "q_id": "44",
+                "question": "Which Article of the Constitution explains that the executive power of every state shall be so exercised as not to impede or prejudice the exercise of the executive power of the Union, and the executive power of the union shall extend to the giving of such directions to a state as may appear to the Government of India to be necessary for that purpose?",
+                "image": null,
+                "options": [
+                    "Article 261",
+                    "Article 247",
+                    "Article 257",
+                    "Article 123"
+                ],
+                "answer": "Article 257"
+            },
+            {
+                "q_id": "45",
+                "question": "Which of the following statements correctly defines the green revolution?",
+                "image": null,
+                "options": [
+                    "It is a new strategy in agriculture to produce food grains, especially wheat and rice.",
+                    "It is a new strategy to increase the share of the forest.",
+                    "It is a new strategy to use green colour for all purposes.",
+                    "It is a new strategy to use only herbal products."
+                ],
+                "answer": "It is a new strategy in agriculture to produce food grains, especially wheat and rice."
+            },
+            {
+                "q_id": "46",
+                "question": "In the year 1952, who among the following lent his voice for the film ‘Amar Bhupali’, which was being produced in two languages simultaneously and he sang in both Bengali and Marathi ?",
+                "image": null,
+                "options": [
+                    "Kishore Kumar",
+                    "Hemanta Mukherjee",
+                    "Debabrata Biswas",
+                    "Manna Dey"
+                ],
+                "answer": "Manna Dey"
+            },
+            {
+                "q_id": "47",
+                "question": "In which part of India does the hot wind ‘Loo’ blow?",
+                "image": null,
+                "options": [
+                    "West and Southwestern",
+                    "North and Northwestern",
+                    "East and Northeastern",
+                    "South and Southwestern"
+                ],
+                "answer": "North and Northwestern"
+            },
+            {
+                "q_id": "48",
+                "question": " The government of which of the following states created a draft policy in 2022 for senior citizens on the basis of article 41, which aims to form a directorate for the welfare of senior citizens?",
+                "image": null,
+                "options": [
+                    "Karnataka",
+                    "Telangana",
+                    "Tamil Nadu",
+                    "Kerala"
+                ],
+                "answer": "Tamil Nadu"
+            },
+            {
+                "q_id": "49",
+                "question": "When was the High Court and Supreme Court Judges (Salaries and Conditions of Service) Amendment Bill, 2021 introduced in Lok Sabha?",
+                "image": null,
+                "options": [
+                    "27 September 2021",
+                    "30 November 2021",
+                    "29 March 2021",
+                    "28 April 2021"
+                ],
+                "answer": "30 November 2021"
+            },
+            {
+                "q_id": "50",
+                "question": "At which Olympics did Gagan Narang win a bronze medal?",
+                "image": null,
+                "options": [
+                    "London 2012",
+                    "Rio 2016",
+                    "Athens 2004",
+                    "Beijing 2008"
+                ],
+                "answer": "London 2012"
+            }
+        ]
+    },
+    {
+        "section": "Quantitative Aptitude",
+        "data": [
+            {
+                "q_id": "51",
+                "question": "Madhav purchased an item for ₹42,000 and sold it at a loss of 20%. With that amount, he purchased another item and sold it at a gain of 30%. What is the overall gain (in ₹)?",
+                "image": null,
+                "options": [
+                    "6720",
+                    "4200",
+                    "1680",
+                    "2520"
+                ],
+                "answer": "1680"
+            },
+            {
+                "q_id": "52",
+                "question": "What is the volume (in cm^3) of a cylinder if the radius of the cylinder is 8 cm and the height is 14 cm? (Take pi=22/7)",
+                "image": null,
+                "options": [
+                    "2686",
+                    "2816",
+                    "2784",
+                    "2456"
+                ],
+                "answer": "2816"
+            },
+            {
+                "q_id": "53",
+                "question": "Seven years ago, Prachi was four times as old as her daughter was at that time. Four years from now, Prachi will be two and-a-half times as old as her daughter would then be. Find the sum of the present ages (in years) of Prachi and her daughter.",
+                "image": null,
+                "options": [
+                    "69",
+                    "77",
+                    "49",
+                    "72"
+                ],
+                "answer": "69"
+            },
+            {
+                "q_id": "54",
+                "question": " From a circle with the radius of 15.75 cm, a sector with the arc length of 11 cm is cut off. Find the area (in cm2) of this sector.",
+                "image": null,
+                "options": [
+                    "86.525",
+                    "86.625",
+                    "86.875",
+                    "86.125"
+                ],
+                "answer": "86.625"
+            },
+            {
+                "q_id": "55",
+                "question": "Simplify",
+                "image": "questions/tier1_json/paper1_images/quantitative_Aptitude/5.png",
+                "options": [
+                    "30.2",
+                    "23.6",
+                    "28.7",
+                    "25.5"
+                ],
+                "answer": "23.6"
+            },
+            {
+                "q_id": "56",
+                "question": "What is the value of sec(t), if tan(t)= 1/3 ?",
+                "image": null,
+                "options": [
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/6_1.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/6_2.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/6_3.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/6_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/quantitative_Aptitude/6_3.png"
+            },
+            {
+                "q_id": "57",
+                "question": "questions/tier1_json/paper1_images/quantitative_Aptitude/7.png",
+                "image": null,
+                "options": [
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/7_1.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/7_2.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/7_3.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/7_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/quantitative_Aptitude/7_4.png"
+            },
+            {
+                "q_id": "58",
+                "question": " The marked price of an article is 26% more than its cost price. If a discount of 32% is given, what will be the loss percentage?",
+                "image": null,
+                "options": [
+                    "18.64",
+                    "15.25",
+                    "12.26",
+                    "14.32"
+                ],
+                "answer": "14.32"
+            },
+            {
+                "q_id": "59",
+                "question": "Simplify the following equation, where A is an acute angle.",
+                "image": "questions/tier1_json/paper1_images/quantitative_Aptitude/9.png",
+                "options": [
+                    "1 + sinA cosA",
+                    "1 - 3 sinA",
+                    "3 cosA - 1",
+                    "sinA + cosA"
+                ],
+                "answer": "1 + sinA cosA"
+            },
+            {
+                "q_id": "60",
+                "question": " The given chart shows the production of different types of cars in the year 2021.\n Study the given chart and answer the question that follows.\n If the total production in the year 2021 was 2,00,00,000, then what will be the central angle of the sector representing the production of type D cars in 2021?",
+                "image": "questions/tier1_json/paper1_images/quantitative_Aptitude/10.png",
+                "options": [
+                    "50 degree",
+                    "36 degree",
+                    "42 degree",
+                    "72 degree"
+                ],
+                "answer": "72 degree"
+            },
+            {
+                "q_id": "61",
+                "question": "A right-angled isosceles triangle has an area of 50 square units. Its hypotenuse is (in units):",
+                "image": "",
+                "options": [
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/11_1.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/11_2.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/11_3.png",
+                    "questions/tier1_json/paper1_images/quantitative_Aptitude/11_4.png"
+                ],
+                "answer": "questions/tier1_json/paper1_images/quantitative_Aptitude/11_3.png"
+            },
+            {
+                "q_id": "62",
+                "question": "The pie chart given below shows the expenditure (in percentage) of Aditya. The monthly income of Aditya is₹54,000.\n  How much does he spend (in₹) on Food?",
+                "image": "questions/tier1_json/paper1_images/quantitative_Aptitude/12.png",
+                "options": [
+                    "12,240",
+                    "13,420",
+                    "11,240",
+                    "12,420"
+                ],
+                "answer": "12,420"
+            },
+            {
+                "q_id": "63",
+                "question": " A person earns ₹16,000 per month and spends 80% of his income and saves the remaining amount. If his income increases by 20% and expenditure by 10%, find the percentage of increase in his savings.",
+                "image": null,
+                "options": [
+                    "140%",
+                    "90%",
+                    "120%",
+                    "60%"
+                ],
+                "answer": "60%"
+            },
+            {
+                "q_id": "64",
+                "question": "Without doing the actual division, find the remainder when 28735429 is divided by 9.",
+                "image": null,
+                "options": [
+                    "4",
+                    "2",
+                    "8",
+                    "9"
+                ],
+                "answer": "4"
+            },
+            {
+                "q_id": "65",
+                "question": "The angles of triangle are such that one is average of other two, then the angles are:",
+                "image": "questions/tier1_json/paper1_images/quantitative_Aptitude/15.png",
+                "options": [
+                    "4",
+                    "3",
+                    "2",
+                    "1"
+                ],
+                "answer": "1"
+            },
+            {
+                "q_id": "66",
+                "question": " Let C be a circle with centre O and P be an external point to C. Let PA and PB be two tangents to C with A and B being the points of tangency, respectively. If PA and PB are inclined to each other at an angle of 60°, then find ∠POA.",
+                "image": null,
+                "options": [
+                    "40°",
+                    "60°",
+                    "80°",
+                    "30°"
+                ],
+                "answer": "60°"
+            },
+            {
+                "q_id": "67",
+                "question": " At present, A is thrice as old as B. C is 5 years elder than B. The sum of the ages of A, B, C is 75 years. The ratio of the age of B five years ago to the age of A three years from now is:",
+                "image": null,
+                "options": [
+                    "2 : 3",
+                    "1 : 4",
+                    "4 : 7",
+                    "1 : 5"
+                ],
+                "answer": "1 : 5"
+            },
+            {
+                "q_id": "68",
+                "question": " The monthly wages (in ₹) of three mess workers, Rahul, Sunil and Vipin, of a boy’s hostel for three months are given in the following table. Study the table carefully and answer the question given below.\n In November, the wages of Sunil is what percentage of the wages of Rahul? (Correct up to two decimal places.)",
+                "image": "questions/tier1_json/paper1_images/quantitative_Aptitude/18.png",
+                "options": [
+                    "90.23%",
+                    "89.30%",
+                    "88.23%",
+                    "91.30%"
+                ],
+                "answer": "91.30%"
+            },
+            {
+                "q_id": "69",
+                "question": "If x varies inversely as y and x = 2 when y = 6, then the value of y when x = 3 is:",
+                "image": null,
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "6"
+                ],
+                "answer": "4"
+            },
+            {
+                "q_id": "70",
+                "question": "If a sum of ₹5,000 is taken at a simple rate of interest of 15% per annum for 3 years and another sum of ₹8,000 is taken at a simple interest of 12% per annum for 4 years, the positive difference of the interests paid is:",
+                "image": null,
+                "options": [
+                    "₹1,643",
+                    "₹1,590",
+                    "₹1,286",
+                    "₹1,378"
+                ],
+                "answer": "₹1,590"
+            },
+            {
+                "q_id": "71",
+                "question": "Varun and Sandeep started for a car race from the same point, in the same direction and at the same time on a circular track of length 1635 m with the speeds of 90 km/h and 108 km/h, respectively. After how much time (in s) will they meet again for the first time?",
+                "image": null,
+                "options": [
+                    "324",
+                    "325",
+                    "327",
+                    "326"
+                ],
+                "answer": "327"
+            },
+            {
+                "q_id": "72",
+                "question": " Pipes M, N and S can fill a tank in 25, 50 and 100 minutes, respectively. Initially, pipes N and S are kept open for 10 minutes, and then pipe N is shut while pipe M is opened. Pipe S is closed 15 minutes before the tank overflows. How much time (in minutes) will it take to fill the tank if the three pipes work in this pattern?",
+                "image": null,
+                "options": [
+                    "30",
+                    "33",
+                    "42",
+                    "27"
+                ],
+                "answer": "27"
+            },
+            {
+                "q_id": "73",
+                "question": "Simplify the following:\n 21− 4.9 ÷ 7 + 3.9 × 0.4 + 0.9",
+                "image": null,
+                "options": [
+                    "18.23",
+                    "24.12",
+                    "26.32",
+                    "22.76"
+                ],
+                "answer": "22.76"
+            },
+            {
+                "q_id": "74",
+                "question": "The given bar graph shows the number of students enrolled in Institutes A and B during 5 years (2018 to 2022).\n  What is the ratio of the total students enrolled in Institute B in 2019, 2020 and 2022 to that of the total students enrolled in Institute A in 2018, 2020 and 2021?",
+                "image": "questions/tier1_json/paper1_images/quantitative_Aptitude/24.png",
+                "options": [
+                    "37 : 28",
+                    "11 : 28",
+                    "28 : 11",
+                    "28 : 37"
+                ],
+                "answer": "37 : 28"
+            },
+            {
+                "q_id": "75",
+                "question": "The average temperature of a city for the first sixteen days of January is 22°C, and the average temperature for the last sixteen days of the same month is 26°C. If the average temperature for the entire month is 24°C, what is the temperature on the sixteenth day?",
+                "image": null,
+                "options": [
+                    "24°C",
+                    "25°C",
+                    "23°C",
+                    "22°C"
+                ],
+                "answer": "24°C"
+            }
+        ]
+    },
+    {
+        "section": "English Comprehension",
+        "data": [
+            {
+                "q_id": "76",
+                "question": "Select the most appropriate synonym of the given word.\n 'Abundant'",
+                "image": null,
+                "options": [
+                    "Ample",
+                    "Scarce",
+                    "Barren",
+                    "Difficult"
+                ],
+                "answer": "Ample"
+            },
+            {
+                "q_id": "77",
+                "question": "Select the option that can be used as a one-word substitute for the given group of words.\n 'One who does not show response to good or bad' ",
+                "image": null,
+                "options": [
+                    "Stoic",
+                    "Sceptic",
+                    "Cynic",
+                    "Phobic"
+                ],
+                "answer": "Stoic"
+            },
+            {
+                "q_id": "78",
+                "question": "Select the most appropriate ANTONYM of the underlined word.\n 'If you want to be a good detective, it helps to have an __inquisitive__ nature.' ",
+                "image": null,
+                "options": [
+                    "Comprehensive",
+                    "Itemised",
+                    "Intrusive",
+                    "Disinterested"
+                ],
+                "answer": "Disinterested"
+            },
+            {
+                "q_id": "79",
+                "question": "Select the option that expresses the given sentence in active voice.\n 'The meal was not prepared by us.' ",
+                "image": null,
+                "options": [
+                    "We had not prepare the meal.",
+                    "We did not prepare the meal.",
+                    "We did not preparing the meal.",
+                    "We did prepare the meal."
+                ],
+                "answer": "We did not prepare the meal."
+            },
+            {
+                "q_id": "80",
+                "question": "Select the option that expresses the given sentence in active voice.\n  'The homework must be done by you.' ",
+                "image": null,
+                "options": [
+                    "You should have done the homework.",
+                    "You do the homework.",
+                    "You will do the homework.",
+                    "You must do the homework."
+                ],
+                "answer": "You must do the homework."
+            },
+            {
+                "q_id": "81",
+                "question": "Select the correctly spelled sentence.",
+                "image": null,
+                "options": [
+                    "I will definitely attend the conference.",
+                    "I will definitly attend the conference.",
+                    "I will definetely attend the conference.",
+                    "I will definately attend the conference."
+                ],
+                "answer": "I will definitely attend the conference."
+            },
+            {
+                "q_id": "82",
+                "question": "Select the most appropriate synonym of the underlined word.\n  'I would love to __organise__ the farewell party at my house.' ",
+                "image": null,
+                "options": [
+                    "Derange",
+                    "Disorder",
+                    "Arrange",
+                    "Confuse"
+                ],
+                "answer": "Arrange"
+            },
+            {
+                "q_id": "83",
+                "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\n (O) as it was the last one of the evening\n (P) the city bus was overcrowded\n (Q) and this gave an opportunity\n (R) to the pickpockets\n (S) to try their skill",
+                "image": null,
+                "options": [
+                    "SRPOQ",
+                    "PSORQ",
+                    "POQRS",
+                    "SROPQ"
+                ],
+                "answer": "POQRS"
+            },
+            {
+                "q_id": "84",
+                "question": "Parts of the following sentence have been given as options. Select the option that contains an error.\n  'Every students in the hostel decided to travel to Delhi to witness the Republic Day parade.' ",
+                "image": null,
+                "options": [
+                    "Republic Day Parade",
+                    "to witness the",
+                    "decided to travel to Delhi",
+                    "Every students in the hostel"
+                ],
+                "answer": "Every students in the hostel"
+            },
+            {
+                "q_id": "85",
+                "question": " Select the most appropriate meaning of the given idiom.\n 'Break a leg'",
+                "image": null,
+                "options": [
+                    "Give advice on maintaining physical health.",
+                    "Encourage someone to engage in risky activities.",
+                    "Suggest taking a short break during work.",
+                    "Wish someone good luck before a performance."
+                ],
+                "answer": "Wish someone good luck before a performance."
+            },
+            {
+                "q_id": "86",
+                "question": " Given below are four jumbled sentences. Select the option that gives their correct logical sequence.\n A. These can turn around to track stars with the rotation of Earth.\n B. Observatories are places to study place.\n C. They are mostly built on the mountain tops.\n D. Telescopes are placed in the dome-shaped roof of the building.",
+                "image": null,
+                "options": [
+                    "BCDA",
+                    "DCBA",
+                    "ACDB",
+                    "CBDA"
+                ],
+                "answer": "BCDA"
+            },
+            {
+                "q_id": "87",
+                "question": " Select the INCORRECTLY spelt word.",
+                "image": null,
+                "options": [
+                    "Allocation",
+                    "Abismal",
+                    "Allegation",
+                    "Aversion"
+                ],
+                "answer": "Abismal"
+            },
+            {
+                "q_id": "88",
+                "question": "Select the most appropriate option to substitute the underlined in '' segment in the given sentence.\n Raju’s job as a clerk seemed to be ''bad at first because of the low salary, but resulted in something good happening later'' because it saved him from being unemployed.",
+                "image": null,
+                "options": [
+                    "a boon in disguise",
+                    "a blessing in disguise",
+                    "a jolt in disguise",
+                    "a gift in disguise"
+                ],
+                "answer": "a blessing in disguise"
+            },
+            {
+                "q_id": "89",
+                "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\n (a) the use of animal research\n (b) throughout the past century\n (c) and it continues to be used to understand many diseases\n (d) has been of considerable importance\n (e) in the field of scientific and medical advancements",
+                "image": null,
+                "options": [
+                    "aecdb",
+                    "ecdba",
+                    "adebc",
+                    "edcba"
+                ],
+                "answer": "adebc"
+            },
+            {
+                "q_id": "90",
+                "question": " Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’.\n Spreading awareness about the rights of the consumers and the relief open to them in case they ''did not get their money’s worth'' of goods and service has rightly been identified as the first priority.",
+                "image": "",
+                "options": [
+                    "were unable to get their money’s worth",
+                    "No substitution",
+                    "did not getting their money’s worth",
+                    "will not get their money’s worth "
+                ],
+                "answer": "were unable to get their money’s worth"
+            },
+            {
+                "q_id": "91",
+                "question": "Select the most appropriate option to substitute the underlined word in the given sentence.\n Pollution levels have increased so ''largely'' that they are almost killing us.",
+                "image": null,
+                "options": [
+                    "highly",
+                    "slowly",
+                    "primarily",
+                    "chiefly"
+                ],
+                "answer": "highly"
+            },
+            {
+                "q_id": "92",
+                "question": "Identify the most appropriate antonym of the given word.\n Scary",
+                "image": null,
+                "options": [
+                    "bright",
+                    "Pristine",
+                    "awful",
+                    "comforting "
+                ],
+                "answer": "comforting"
+            },
+            {
+                "q_id": "93",
+                "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error.\n By this time next year / I will had graduated from college / and starting my first job / in the field of marketing.",
+                "image": null,
+                "options": [
+                    "in the field of marketing",
+                    "and starting my first job",
+                    "By this time next year",
+                    "I will had graduated from college"
+                ],
+                "answer": "I will had graduated from college"
+            },
+            {
+                "q_id": "94",
+                "question": " Select the most appropriate ANTONYM of the word in bold.\n Elisabeth stood at the piano, which did nothing to ''allay'' his anxiety.",
+                "image": null,
+                "options": [
+                    "mitigate",
+                    "simplify",
+                    "mollify",
+                    "aggravate"
+                ],
+                "answer": "aggravate"
+            },
+            {
+                "q_id": "95",
+                "question": " Select the most appropriate synonym of the given word.\n Berserk",
+                "image": null,
+                "options": [
+                    "Demented",
+                    "Absurd",
+                    "Stubborn",
+                    "Lazy"
+                ],
+                "answer": "Demented"
+            },
+            {
+                "q_id": "96",
+                "question": "Comprehension:\n In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\n\n From the beginning (1)_________ the eighteenth century, the ladies of European cities covered (2)_______ faces in layers of paint and powder. This particular fashion was largely brought (3) __________ by the urgent need to disguise the ravages of smallpox, (4)_________ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (5) __________ a facial defect.\n\n  Select the most appropriate option to fill in blank number 1.",
+                "image": null,
+                "options": [
+                    "in",
+                    "on",
+                    "of",
+                    "about"
+                ],
+                "answer": "of"
+            },
+            {
+                "q_id": "97",
+                "question": "Comprehension:\n In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\n\n From the beginning (1)_________ the eighteenth century, the ladies of European cities covered (2)_______ faces in layers of paint and powder. This particular fashion was largely brought (3) __________ by the urgent need to disguise the ravages of smallpox, (4)_________ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (5) __________ a facial defect.\n\n  Select the most appropriate option to fill in blank number 2.",
+                "image": null,
+                "options": [
+                    "their",
+                    "there",
+                    "them",
+                    "they're"
+                ],
+                "answer": "their"
+            },
+            {
+                "q_id": "98",
+                "question": "Comprehension:\n In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\n\n From the beginning (1)_________ the eighteenth century, the ladies of European cities covered (2)_______ faces in layers of paint and powder. This particular fashion was largely brought (3) __________ by the urgent need to disguise the ravages of smallpox, (4)_________ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (5) __________ a facial defect.\n\n  Select the most appropriate option to fill in blank number 3.",
+                "image": null,
+                "options": [
+                    "within",
+                    "around",
+                    "to",
+                    "about"
+                ],
+                "answer": "about"
+            },
+            {
+                "q_id": "99",
+                "question": "Comprehension:\n In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\n\n From the beginning (1)_________ the eighteenth century, the ladies of European cities covered (2)_______ faces in layers of paint and powder. This particular fashion was largely brought (3) __________ by the urgent need to disguise the ravages of smallpox, (4)_________ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (5) __________ a facial defect.\n\n  Select the most appropriate option to fill in blank number 4.",
+                "image": null,
+                "options": [
+                    "that",
+                    "which",
+                    "when",
+                    "who"
+                ],
+                "answer": "which"
+            },
+            {
+                "q_id": "100",
+                "question": "Comprehension:\n In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\n\n From the beginning (1)_________ the eighteenth century, the ladies of European cities covered (2)_______ faces in layers of paint and powder. This particular fashion was largely brought (3) __________ by the urgent need to disguise the ravages of smallpox, (4)_________ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (5) __________ a facial defect.\n\n  Select the most appropriate option to fill in blank number 5.",
+                "image": null,
+                "options": [
+                    "on",
+                    "to",
+                    "for",
+                    "up"
+                ],
+                "answer": "up"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Keeps the main heading centered */
+    background-color: #f7f7f7;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+h2 {
+    text-align: center; /* Centers the section name */
+}
+
+.center {
+    margin-top: 150px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+form {
+    margin: 20px;
+}
+
+pre {
+    background: #eee;
+    padding: 10px;
+    text-align: left;
+    display: inline-block;
+}
+
+.question-container {
+    text-align: left; /* Aligns questions to the left */
+    margin: 20px 0;
+}
+
+.options-container {
+    margin-left: 20px; /* Indentation for options */
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
